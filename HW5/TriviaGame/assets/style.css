@@ -1,0 +1,17 @@
+body {
+    background-image: url("./images/background.jpg");
+    background-size: cover;                      
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-size: 35px;  
+}
+
+.btn-block {
+    width: 75%;
+}
+
+.row {
+    margin-top: 75px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
